@@ -9,9 +9,8 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **[Grab (Driver Bike)](#)**.
+- 🔭 I’m currently working on **[Grab (Driver)](#)**.
 - 🌱 I’m currently learning **[Technology/Skill]**.
-- 💬 Ask me about **[Your Expertise]**.
 - 📫 How to reach me: yundopid@gmail.com
 - ⚡ Fun fact: I love Fishing and Coding.
 
